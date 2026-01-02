@@ -9,5 +9,3 @@ A simple todo list to store your tasks
 * HTML5
 * Vite (Build Tool)
 
-Visit this site - https://sanvidurath.github.io/To-Do-List/
-
